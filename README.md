@@ -2,7 +2,17 @@
   windows + ponto -> Mostra todos os emojes!
 -->
 
-## Olá, seja bem vindo ao perfil!
+Olá, seja bem vindo ao perfil!
+
+Um pouco sobre minha pessoa:
+
+  - ✨ Iniciante na área de programação front-end!
+  - 🐱‍👤 Trabalhando atualmente como Auxiliar de T.I!
+  - 🤞  Visão futura em Segurança Web!
+
+Estarei utilizando o git para montar um feedback dos meus conhecimentos na área web, fiquem a vontade e curtem o show!
+
+##
 
 <div align="center">
   <p> 
@@ -18,11 +28,12 @@
   <img align="center" alt="Lucas.Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" />
   <!--PHP-->
   <img align="center" alt="Lucas.Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" />
-  
+  <br>
+  <br>
+  <p align="center"> ---------------------------------------  **********"Mr-kzen"***********  --------------------------------------- </p>
   <!--Visando-->
-  
-  <p></p>
-  
+  <br>
+  <br>
 <p> 
   <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/question.png" width="50px" /> Visando:
 </p>
@@ -38,9 +49,12 @@
   <img align="center" alt="Lucas.Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" />
   <!--Angular-->
   <img align="center" alt="Lucas.Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain-wordmark.svg" / 
-  
+  <br>
+  <br>
+  <p align="center"> ---------------------------------------  **********"Mr-kzen"***********  --------------------------------------- </p>
   <!--Ferramentas-->
-  
+  <br>
+  <br>
   <p></p>
   
 <p>
@@ -55,12 +69,6 @@
 <br>
 
 ##
-
-  - ✨ Iniciante na área de programação front-end!
-  - 🐱‍👤 Trabalhando atualmente como Auxiliar de T.I!
-  - 🤞  Visão futura em Segurança Web!
-
-<p align="center"> ---------------------------------------  **********"Mr-kzen"***********  --------------------------------------- </p>
   
 <div align="center">
     <a href="https://beacons.ai/Mr-kzen"> 
