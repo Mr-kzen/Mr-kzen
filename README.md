@@ -24,10 +24,6 @@ Estarei utilizando o git para montar um feedback dos meus conhecimentos na área
   <img align="center" alt="Lucas.html5" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" />
   <!--Icone de Java Script-->
   <img align="center" alt="Lucas.JavaScript" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" />
-  <!--Icone de Java-->
-  <img align="center" alt="Lucas.Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" />
-  <!--PHP-->
-  <img align="center" alt="Lucas.Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" />
   <br>
   <br>
   <p align="center"> ---------------------------------------  **********"Mr-kzen"***********  --------------------------------------- </p>
@@ -43,12 +39,10 @@ Estarei utilizando o git para montar um feedback dos meus conhecimentos na área
   <img align="center" alt="Lucas.Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" />
   <!--NodeJs-->
   <img align="center" alt="Lucas.Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" />
-  <!--Pythom-->
-  <img align="center" alt="Lucas.Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" />
-  <!--TypeScript-->
-  <img align="center" alt="Lucas.Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" />
   <!--Angular-->
-  <img align="center" alt="Lucas.Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain-wordmark.svg" / 
+  <img align="center" alt="Lucas.Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain-wordmark.svg" />
+  <!--PHP-->
+  <img align="center" alt="Lucas.Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" />
   <br>
   <br>
   <p align="center"> ---------------------------------------  **********"Mr-kzen"***********  --------------------------------------- </p>
