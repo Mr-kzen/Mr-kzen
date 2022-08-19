@@ -73,7 +73,7 @@ A seguir conheça um pouco sobre o meu trabalho e sobre os projeto que faço par
 <!-- Principais Ferramentas -->
 
 <div>
-<h2>Principais conhecimentos ferramentas</h2>
+<h2>Principais ferramentas</h2>
   
 <div align="center">
   
