@@ -167,22 +167,22 @@ A seguir conheça um pouco sobre o meu trabalho e sobre os projeto que faço par
 <div align="center">
   
 <!--Instagram-->
-<a href="https://www.instagram.com/gabrilukaszen/">
+<a href="https://www.instagram.com/gabrilukaszen/" target="_blank">
 <img style="margin-right: 20px;" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a>
   
 <!--Linkedin-->
-<a href="https://www.linkedin.com/in/lucas-gabriel-silva-oliveira-985130162/">
+<a href="https://www.linkedin.com/in/lucas-gabriel-silva-oliveira-985130162/" target="_blank">
 <img style="margin-right: 20px;" alt="Satyam Goyal | Linkedin" width="26px" src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="30px" style="margin-left: 5px;" />
 </a>
   
 <!--Discord-->
-<a href="https://discord.com/channels/@me/979478766277521438">
+<a href="https://discord.com/channels/@me/979478766277521438" target="_blank">
 <img style="margin-right: 20px;" alt="Satyam Goyal | Discord" width="26px" src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/discord.png" height="30px" style="margin: 5px;" />
 </a>
   
 <!--Gmail-->
-<a href="mailto:lukaszzzen@gmail.com">
+<a href="mailto:lukaszzzen@gmail.com" target="_blank">
 <img style="margin-right: 20px;" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a>
   
